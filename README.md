@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+This repository houses the Ludum Dare 40 version of Snake++ aka Snake++ Classic. Future versions will be located in this repo here -> [tbd]
+
 ### Prerequisites
 Must have [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) installed
 * NOTE: I run Java 9 so I cannot guarantee that it will work on earlier version, but I don't believe I've used anything preventing it from running on some older versions. Click [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html) to download Java 9.
